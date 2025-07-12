@@ -1,0 +1,11 @@
+This project automates the extraction of product data from the Target.com "TVs & Home Theater Electronics - Deals" section using Selenium and BeautifulSoup in Python. The script is designed to simulate user behavior on the website and collect structured data such as:
+
+✅ Product name
+
+✅ Price
+
+✅ Product details
+
+✅ Review count
+
+✅ Scrape date (timestamped)
